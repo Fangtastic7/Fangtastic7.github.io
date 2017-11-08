@@ -51,6 +51,7 @@ h1 {
 h3 {
   font-family:"Courier New";
   font-style: bold;
+  
 }
 #customers {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -74,3 +75,15 @@ h3 {
     background-color: skyblue;
     color: white;
 }
+ins {
+  text-indent:50px;
+}
+.example {
+  padding:12px;
+  background-color: #f2f2f2;
+  box-shadow: 4px 4px 2px darkgray;
+  border: 3px groove skyblue;
+  
+}
+
+  
