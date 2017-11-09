@@ -53,6 +53,7 @@ h3 {
   font-style: bold;
   
 }
+/*table style*/
 #customers {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
@@ -85,6 +86,7 @@ ins {
   border: 3px groove skyblue;
   
 }
+/*blue background style for code section titles*/
 .linestyle1 {
   height: 12px;
     border: 0;
