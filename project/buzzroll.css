@@ -47,7 +47,7 @@ th {
 table, th, td {
     border: 5px solid black;
     margin: 12px 12px 12px 12px;
-    
+    background-color: #d3d3d3;
 }
 ul {
     background: #3399ff;
