@@ -1,0 +1,60 @@
+body {font-family: "Lato", sans-serif; margin:10px auto;}
+.mySlides {display: none}
+  
+.buzzroll {
+  font-family: "Times New Roman";
+  background-color:black;
+  color: white;
+  font-size:20px;
+}
+/*front page table*/
+#table1 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#table1 td, #table1 th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color:#f2f2f2;
+    color:black;
+}
+#table1 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-image:url("https://thumbs.dreamstime.com/t/wood-metallic-texture-background-rustic-banner-blue-tones-51204566.jpg");
+    color: black;
+}
+
+h1 {
+  border: 2px groove red;
+  background-image: url("https://media.istockphoto.com/photos/medium-golden-brown-wood-texture-background-picture-id513694258?k=6&m=513694258&s=612x612&w=0&h=-3RWFbcerDA4r1g25yQBvFTw0DybiB8xewJPWq2xwYc=");
+  font-family: "Times New Roman";
+  text-align:center;
+  margin-top:70px;
+  color:skyblue;
+  text-shadow: 3px 2px red;
+/*Table styles */
+}
+th {
+  border:3px solid blue;
+  padding:12px;
+  background-color:#f2f2f2;
+  border-style: groove;
+}
+table, th, td {
+    border: 5px solid black;
+    margin: 12px 12px 12px 12px;
+    
+}
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+.automargin {
+  margin: 10px auto;
+  width:100px;
+}
+}
